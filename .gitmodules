@@ -2,3 +2,8 @@
 	path = OCA/purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
 	branch = 13.0
+
+[submodule "OCA/purchase-workflow-2"]
+	path = OCA/purchase-workflow-2
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 13.0
